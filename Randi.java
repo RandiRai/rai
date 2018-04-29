@@ -1,4 +1,4 @@
-class ProgramTumpukan {
+class Randi {
     static int atas = -1;
     static int batasAtas = 4;
     
